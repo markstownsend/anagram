@@ -194,3 +194,6 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+
+# Keep the content directory out as this will go in to the gh-pages branch for the dox.
+content
